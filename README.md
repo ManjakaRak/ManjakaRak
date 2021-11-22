@@ -27,7 +27,7 @@ ___
 >Vous pouvez me contacter sur d'autre plateforme (mentionnées ci-dessous).
 
 ## Contactez-moi
-[![gmail](svg/gmail.png)](www.m3t4r4k@gmail.com)|[![](svg/facebook.png)](https://web.facebook.com/manjaka.rak/)|[![](svg/linkedin.png)](www.linkedin.com/in/manjaka-rak-5b53221bb)
+[![gmail](svg/gmail.png)](www.m3t4r4k@gmail.com)|[![](svg/facebook.png)](https://web.facebook.com/manjaka.rak/)|[![](svg/linkedin.png)](https://www.linkedin.com/in/manjaka-rak-5b53221bb)
 --- | --- | ---
 <details>
   <summary>Petite remarque</summary>

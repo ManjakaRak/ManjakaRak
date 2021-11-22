@@ -1,7 +1,7 @@
 
 
 ![my-profile](img/profil_github.png)
---- | --- | ---
+
 # Manjaka Rak ~ `Dev JS` !
 
 > # `Moi?`

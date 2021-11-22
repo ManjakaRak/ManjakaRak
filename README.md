@@ -1,7 +1,6 @@
 
 
-~ | <kbd>Dev</dbd> JS` | ~
---- | --- | ---
+# ~ <kbd>`Dev JS`</dbd> ~
 
 > # `Moi?`
 >Je suis un passionné de tout ce qui est *technologie  web* et *programmation* ...  

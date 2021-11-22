@@ -1,6 +1,6 @@
 
 
-# ~`Dev JS`~
+# `Dev JS`
 
 > # `Moi?`
 >Je suis un passionné de tout ce qui est *technologie  web* et *programmation* ...  

@@ -1,7 +1,5 @@
 
 
-# `Dev JS`
-
 > # `Moi?`
 >Je suis un passionné de tout ce qui est *technologie  web* et *programmation* ...  
 >J'aime me former en continue, et être au courant de nouvelles techs et evolutions. 
@@ -16,8 +14,9 @@ ___
 ![icon-react](svg/react.png) | ReactJs | ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start-empty](svg/star-empty.png)
 ![icon-node](svg/node-js.png) | NodeJs | ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start-empty](svg/star-empty.png)
 ![icon-mongodb](svg/mongodb.png) | MongoDB | ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start-empty](svg/star-empty.png)
+![icon-php](svg/php.png) | PHP | ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start-empty](svg/star.png) ![icon-start-empty](svg/star-empty.png)
 ![icon-mysql](svg/mysql.png) | MySql | ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start-empty](svg/star-empty.png)
-![icon-php](svg/php.png) | PHP | ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start-empty](svg/star-empty.png) ![icon-start-empty](svg/star-empty.png)
+
 ___
 
 >Je suis toujours prêt pour donner un coup de pouce, partager, et apprendre.

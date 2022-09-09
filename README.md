@@ -12,6 +12,7 @@ ___
 --- | --- | ---
 ![icon-js](svg/js.png) | JavaScript | ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start](svg/star.png)
 ![icon-react](svg/react.png) | ReactJs | ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start-empty](svg/star-empty.png)
+![icon-js](svg/vuejs.png) | JavaScript | ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start](svg/star.png)
 ![icon-node](svg/node-js.png) | NodeJs | ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start-empty](svg/star-empty.png)
 ![icon-mongodb](svg/mongodb.png) | MongoDB | ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start-empty](svg/star-empty.png)
 

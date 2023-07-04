@@ -1,9 +1,6 @@
 
 
-> # `Moi?`
->Je suis un passionné de tout ce qui est *technologie  web* et *programmation* ...  
->J'aime me former en continue, et être au courant de nouvelles techs et evolutions. 
->Je suis toujours ![icon-js](svg/hand-peace.png) *ready* ![icon-js](svg/hand-peace.png) pour de nouveaux defits
+> # `I i'm Manjaka Rak? 👋`
 ___
 
 ## Ma stack tech préférée

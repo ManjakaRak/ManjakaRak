@@ -1,10 +1,8 @@
 
 
-# `I i'm Manjaka Rak? 👋`
+# `Hi i'm Manjaka Rak? 👋`
 
 ## Basically, I love coding, challenges, and learning new things about IT 
-
-___
 
 ### for the moment I am very interested in:
 
@@ -15,8 +13,6 @@ ___
 ![icon-js](svg/vuejs.png) | VueJs | ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start](svg/star.png)
 ![icon-node](svg/node-js.png) | NodeJs | ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start-empty](svg/star-empty.png)
 ![icon-mongodb](svg/mongodb.png) | MongoDB | ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start](svg/star.png) ![icon-start-empty](svg/star-empty.png)
-
-___
 
 >I am always open to a partnership or for sharing 
 ## Contact me

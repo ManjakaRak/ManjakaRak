@@ -1,7 +1,6 @@
 
 
 # `Hi i'm Manjaka Rak? 👋`
-<p style="text-align: center;">Hi i'm Manjaka Rak? 👋</p>
 ## Basically, I love coding, challenges, and learning new things about IT 
 
 ### for the moment I am very interested in:

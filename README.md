@@ -18,12 +18,8 @@ ___
 
 ___
 
->Je suis toujours prêt pour donner un coup de pouce, partager, et apprendre.
->Vous pouvez me contacter sur d'autre plateforme (mentionnées ci-dessous).
-## Contactez-moi
+>I am always open to a partnership or for sharing 
+## Contact me
 [![gmail](svg/gmail.png)](mailto:m3t4r4k@gmail.com)|[![](svg/facebook.png)](https://web.facebook.com/manjaka.rak/)|[![](svg/linkedin.png)](https://www.linkedin.com/in/manjaka-rak-5b53221bb)
 --- | --- | ---
-<details>
-  <summary>Petite remarque</summary>
-  Je suis actuellement à la recherche d'un job en tant que developpeur JavaScript. Si ça vous intérèsse faites-moi signe.
-</details>
+

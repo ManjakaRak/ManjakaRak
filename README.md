@@ -1,12 +1,12 @@
 
 
-> # `I i'm Manjaka Rak? 👋`
+# `I i'm Manjaka Rak? 👋`
 
-## Basically, I love coding, challenges,
+## Basically, I love coding, challenges, and learning new things about IT 
 
 ___
 
-## Ma stack tech préférée
+### for the moment I am very interested in:
 
 ~ | ~ | ~
 --- | --- | ---

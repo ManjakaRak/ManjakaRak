@@ -1,6 +1,9 @@
 
 
 > # `I i'm Manjaka Rak? 👋`
+
+## Basically, I love coding, challenges,
+
 ___
 
 ## Ma stack tech préférée
